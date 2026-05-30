@@ -11,3 +11,4 @@ langchain-text-splitters
 pypdf
 chromadb
 aiofiles
+python-multipart
